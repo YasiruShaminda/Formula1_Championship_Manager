@@ -4,7 +4,7 @@ This whole application is developed in java using oop concepts. It also provides
 ## Formula1 Championship Manager (GUI)
 
 #### Driver Statistics Screen
-![Driver Statistics Screen](screenshots/Driver Statistics.PNG)
+![Driver Statistics Screen](screenshots/Driver%20Statistics.PNG)
 
 #### Random Completed Race Screen
 ![Random Completed Race Screen](/screenshots/Random%20Completed%20Race%20Screen.PNG)
